@@ -1,0 +1,14 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Isaac Wolf -- fullstack dev --
+
+# THANKS
+
+    The rust programming language, and its crates
+
+# TECHNOLOGY COLOPHON
+
+    Axum Maud HTMX PicoCSS SQLX Postgres
